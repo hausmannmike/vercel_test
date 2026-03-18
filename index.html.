@@ -1,2 +1,24 @@
-<h1>START Hack 2026 - Test erfolgreich!</h1>
-<p>Meine Fendi-Hose sitzt, mein Deployment läuft.</p>
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-color: #1a1a1a; /* Dark charcoal */
+            color: #d4af37;           /* Fendi Gold */
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            text-align: center;
+        }
+        h1 { border-bottom: 2px solid #d4af37; padding-bottom: 10px; }
+    </style>
+</head>
+<body>
+    <h1>START Hack 2026</h1>
+    <p>Test erfolgreich! Meine Fendi-Hose sitzt, mein Deployment läuft.</p>
+</body>
+</html>
